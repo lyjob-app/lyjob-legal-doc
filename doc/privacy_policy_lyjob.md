@@ -123,14 +123,14 @@ Vous pouvez supprimer votre compte à tout moment via l'application. Cela entra�
 
 ### 7.4 Droit à la portabilité
 Vous pouvez demander une copie de vos données dans un format lisible et réutilisable (JSON, CSV).  
-Pour cela, contactez l'administrateur à l'adresse : **[idaffef@gmail.com]**
+Pour cela, contactez l'administrateur à l'adresse : **[contact@nes-dev.org]**
 
 ### 7.5 Droit d'opposition
 Vous pouvez vous opposer au traitement de vos données. Dans le cadre de lyjob, cela implique la suppression de votre compte.
 
 ### 7.6 Comment exercer vos droits
 Pour toute demande concernant vos données personnelles (export, question, réclamation), contactez :  
-**Email** : [idaffef@gmail.com]
+**Email** : [contact@nes-dev.org]
 
 Vous disposez également du droit d'introduire une réclamation auprès de la CNIL (Commission Nationale de l'Informatique et des Libertés) : https://www.cnil.fr
 
