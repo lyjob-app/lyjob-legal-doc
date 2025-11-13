@@ -2,7 +2,7 @@
 
 **Dernière mise à jour : 13/11/2025**
 
-En utilisant l'application **lyjob**, vous acceptez les présentes conditions générales d'utilisation.
+En utilisant l'application **Lyjob**, vous acceptez les présentes conditions générales d'utilisation.
 
 ---
 
@@ -10,13 +10,13 @@ En utilisant l'application **lyjob**, vous acceptez les présentes conditions g�
 
 Ces conditions définissent les règles d'utilisation de l'application, que vous soyez **candidat (utilisateur)** ou **recruteur**.
 
-**lyjob** est une initiative à but non lucratif, fonctionnant comme une organisation communautaire.
+**Lyjob** est une initiative à but non lucratif, fonctionnant comme une organisation communautaire.
 
 ---
 
 ## 2. Description du service
 
-**lyjob** est une application mobile qui met en relation des candidats à la recherche d'opportunités professionnelles et des recruteurs proposant des offres d'emploi.
+**Lyjob** est une application mobile qui met en relation des candidats à la recherche d'opportunités professionnelles et des recruteurs proposant des offres d'emploi.
 
 ### 2.1 Candidats (utilisateurs)
 - Peuvent créer un compte avec leurs informations personnelles
@@ -184,4 +184,4 @@ Documents légaux : GitHub Pages (https://pages.github.com)
 
 ---
 
-**En utilisant lyjob, vous reconnaissez avoir lu, compris et accepté l'intégralité des présentes conditions générales d'utilisation.**
+**En utilisant Lyjob, vous reconnaissez avoir lu, compris et accepté l'intégralité des présentes conditions générales d'utilisation.**

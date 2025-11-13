@@ -5,7 +5,7 @@
 ---
 
 ### 1. Contexte
-La protection des données personnelles des utilisateurs de l'application **lyjob** est une priorité.  
+La protection des données personnelles des utilisateurs de l'application **Lyjob** est une priorité.  
 La présente politique décrit quelles données sont collectées, pourquoi, comment elles sont utilisées et protégées.
 
 
@@ -60,7 +60,7 @@ Ces données sont accessibles à tous les utilisateurs et ne font pas l'objet de
 
 ### 2.4 Données techniques
 
-Conformément aux standards de l'hébergeur Supabase, des données de connexion techniques (adresses IP, logs) peuvent être temporairement collectées à des fins de sécurité et de maintenance de l'infrastructure. Ces données ne sont pas utilisées par lyjob et sont régies par la politique de confidentialité de Supabase.
+Conformément aux standards de l'hébergeur Supabase, des données de connexion techniques (adresses IP, logs) peuvent être temporairement collectées à des fins de sécurité et de maintenance de l'infrastructure. Ces données ne sont pas utilisées par Lyjob et sont régies par la politique de confidentialité de Supabase.
 
 ---
 
@@ -126,7 +126,7 @@ Vous pouvez demander une copie de vos données dans un format lisible et réutil
 Pour cela, contactez l'administrateur à l'adresse : **[contact@nes-dev.org]**
 
 ### 7.5 Droit d'opposition
-Vous pouvez vous opposer au traitement de vos données. Dans le cadre de lyjob, cela implique la suppression de votre compte.
+Vous pouvez vous opposer au traitement de vos données. Dans le cadre de Lyjob, cela implique la suppression de votre compte.
 
 ### 7.6 Comment exercer vos droits
 Pour toute demande concernant vos données personnelles (export, question, réclamation), contactez :  
@@ -142,7 +142,7 @@ Nous nous engageons à répondre à toute demande concernant l'exercice de vos d
 
 ## 8. Cookies et suivi
 
-L'application lyjob n'utilise pas de cookies, de publicités ni d'outils de suivi (analytics).  
+L'application Lyjob n'utilise pas de cookies, de publicités ni d'outils de suivi (analytics).  
 Aucune donnée comportementale n'est collectée.
 
 ---
