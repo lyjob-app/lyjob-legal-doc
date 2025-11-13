@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Documents Légaux - Lyjob</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background: #fafafa;
+    }
+
+    header {
+      background: white;
+      padding: 24px;
+      border-bottom: 1px solid #e5e5e5;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    }
+
+    .header-content {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      color: #3992a8;
+      font-size: 28px;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      color: #666;
+      font-size: 16px;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 48px auto;
+      padding: 0 24px;
+    }
+
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      margin-bottom: 48px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      transition: transform 0.2s, box-shadow 0.2s;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 4px 16px rgba(57, 146, 168, 0.15);
+    }
+
+    .card h2 {
+      color: #3992a8;
+      font-size: 20px;
+      margin-bottom: 12px;
+    }
+
+    .card p {
+      color: #666;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    .info-section {
+      background: white;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    }
+
+    .info-section h3 {
+      color: #333;
+      font-size: 18px;
+      margin-bottom: 16px;
+    }
+
+    .info-section p {
+      color: #666;
+      margin-bottom: 12px;
+    }
+
+    .info-section a {
+      color: #3992a8;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .info-section a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 32px 24px;
+      color: #999;
+      font-size: 14px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background: #111;
+        color: #ddd;
+      }
+
+      header {
+        background: #1a1a1a;
+        border-bottom-color: #333;
+      }
+
+      .subtitle {
+        color: #aaa;
+      }
+
+      .card, .info-section {
+        background: #1a1a1a;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+      }
+
+      .card:hover {
+        box-shadow: 0 4px 16px rgba(57, 146, 168, 0.3);
+      }
+
+      .card p, .info-section p {
+        color: #aaa;
+      }
+
+      .info-section h3 {
+        color: #ddd;
+      }
+
+      footer {
+        color: #666;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-content">
+      <h1>Lyjob</h1>
+      <p class="subtitle">Documents légaux et politiques de confidentialité</p>
+    </div>
+  </header>
+
+  <main>
+    <div class="card-grid">
+      <a href="doc/privacy_policy_lyjob.md" class="card">
+        <h2>Politique de Confidentialité</h2>
+        <p>Découvrez comment nous collectons, utilisons et protégeons vos données personnelles.</p>
+      </a>
+
+      <a href="doc/cgu_lyjob.md" class="card">
+        <h2>Conditions Générales d'Utilisation</h2>
+        <p>Les règles et conditions d'utilisation de notre plateforme.</p>
+      </a>
+    </div>
+
+    <div class="info-section">
+      <h3>À propos de ces documents</h3>
+      <p>
+        Ces documents sont mis à disposition publiquement pour garantir la transparence de Lyjob.
+      </p>
+      <p>
+        Pour toute question concernant ces documents, n'hésitez pas à nous contacter via
+        <a href="https://github.com//lyjob-app/lyjob-legal-doc/issues">GitHub Issues</a>.
+      </p>
+      <p>
+        Dernière mise à jour : <strong>Novembre 2025</strong>
+      </p>
+    </div>
+  </main>
+
+  <footer>
+    © Lyjob - Tous droits réservés
+  </footer>
+</body>
+</html>
